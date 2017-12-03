@@ -28,4 +28,4 @@ The Ahmed Courier Magento2 Extension gives your customers possibility to choose 
 
 <b>Warning:</b>
 
-1. Kindly Backup Your Site Before installing any Magento2 Module. 
+1. Kindly Backup Your Site Before installing any Magento2 Extension. 
