@@ -23,3 +23,7 @@ The Ahmed Courier Magento2 Extension gives your customers possibility to choose 
 2. Go to :-  Store=> Configaration=> Sales=> Shipping Method :
 3. Now Configure the Brosishost_PathaoDelivery Extension 
 4. Dont' forget to save after configaration.
+
+<b>Warning:</b>
+
+1. Kindly Backup Your Site Before installing any Magento2 Module. 
